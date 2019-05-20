@@ -1,0 +1,23 @@
+{
+  "name": "@phts/prettier-config",
+  "version": "1.0.0",
+  "description": "My config for Prettier.",
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": ">= 1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phts/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Phil Tsaryk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phts/prettier-config/issues"
+  },
+  "homepage": "https://github.com/phts/prettier-config#readme"
+}
