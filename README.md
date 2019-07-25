@@ -35,7 +35,6 @@ Install [JsPrettier](https://packagecontrol.io/packages/JsPrettier) package and 
   "auto_format_on_save": true,
   "auto_format_on_save_excludes": ["*/node_modules/*"],
   "auto_format_on_save_requires_prettier_config": true,
-  "prettier_cli_path": "%APPDATA%\\npm\\prettier-eslint.cmd", // windows
-  "prettier_cli_path": "/usr/local/bin/prettier-eslint" // *nix
+  "prettier_cli_path": "./node_modules/.bin/prettier"
 }
 ```
