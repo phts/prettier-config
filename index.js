@@ -3,7 +3,6 @@ module.exports = {
   bracketSpacing: false,
   htmlWhitespaceSensitivity: 'css',
   jsxBracketSameLine: false,
-  parser: 'babel',
   printWidth: 100,
   proseWrap: 'preserve',
   quoteProps: 'as-needed',
